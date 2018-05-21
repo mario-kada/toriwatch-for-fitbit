@@ -1,0 +1,45 @@
+<svg id="page" class="portrait-view">
+
+  <image id="background" href="background.png" x="0" y="0" width="100%" height="100%" fill="#7090b5" class="background" />
+   
+<!--   <image id="day" href="day_mon.png" x="165" y="107" width="59" height="26" fill="#FFFFFF" class="foreground" />
+  
+  <image id="date1" href="1.png" x="251" y="107" width="18" height="26" fill="#FFFFFF" class="foreground" />
+  <image id="date2" href="1.png" x="275" y="107" width="18" height="26" fill="#FFFFFF" class="foreground" /> -->
+  
+  <svg class="container"  x= "22%">
+     <rect class="inner" />
+
+    <image id="separator" href="separator.png" x="76" y="119" width="15" height="45" fill="#FFFFFF"  class="foreground" />
+    <image id="hours1" href="1.png" x="0" y="119" width="31" height="45" fill="#FFFFFF"  class="foreground" />
+    <image id="hours2" href="3.png" x="38" y="119" width="31" height="45" fill="#FFFFFF" class="foreground" />
+    <image id="mins1" href="3.png" x="96" y="119" width="31" height="45" fill="#FFFFFF" class="foreground" />
+    <image id="mins2" href="7.png" x="136" y="119" width="31" height="45" fill="#FFFFFF" class="foreground" />
+  </svg>
+  
+  <svg id="stepsContainer" x="65" y="253">
+     <image id="steps0"  x="0" y="0" width="11" height="16" opacity=".7"  fill="#FFFFFF"/>
+     <image id="steps1"  x="14" y="0" width="11" height="16" opacity=".7"  fill="#FFFFFF"/>
+     <image id="steps2"  x="28" y="0" width="11" height="16" opacity=".7"  fill="#FFFFFF"/>
+     <image id="steps3"  x="42" y="0" width="11" height="16" opacity=".7"  fill="#FFFFFF"/>
+     <image id="steps4"  x="56" y="0" width="11" height="16" opacity=".7"  fill="#FFFFFF"/>
+     <image id="steps5"  x="70" y="0" width="11" height="16" opacity=".7"  fill="#FFFFFF"/>
+  </svg>
+  
+    <svg id="HRTContainer" x="65" y="226">
+     <image id="hrt0" x="0" y="0" width="11" height="16"  opacity=".7" fill="#FFFFFF"/>
+     <image id="hrt1"  x="14" y="0" width="11" height="16" opacity=".7"  fill="#FFFFFF"/>
+     <image id="hrt2"  x="28" y="0" width="11" height="16" opacity=".7"  fill="#FFFFFF"/>
+  </svg>
+    
+  <svg class="background">
+  </svg>
+      <image x="32" y="224" width="21" height="21" href="heart.png" load="sync" />
+    <image x="32" y="253" width="22" height="18" href="foot.png" load="sync" />
+    <image x="155" y="173" width="133" height="113" href="tori.png" load="sync" />
+</svg>
+
+  
+
+<!-- 300x300 -->
+

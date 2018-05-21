@@ -1,0 +1,15 @@
+#page {
+  fill: black;
+}
+
+#mySteps {
+   font-family: System-Bold;
+  x: 15%;
+  y: 70%+40;
+  fill: white;
+}
+.large-value {
+  font-family: Seville-Book;
+  font-size: 120;
+  fill: #F80070;
+}
