@@ -2,7 +2,7 @@
   "fitbit": {
     "appUUID": "143f8b5f-d7b3-4f2b-af3e-82c11e6aae75",
     "appType": "clockface",
-    "appDisplayName": "LCD Clock",
+    "appDisplayName": "toriwatch",
     "iconFile": "resources/icon.png",
     "wipeColor": "#8bc34a",
     "requestedPermissions": [
