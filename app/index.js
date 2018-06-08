@@ -95,6 +95,9 @@ hrm.onreading = function() {
   let myHRTVal = (hrm.heartRate);
   let myHRTValString = myHRTVal + ""; 
   let hrtArray = [hrt0,hrt1,hrt2];
+  hrt0.image = "";
+  hrt1.image = "";
+  hrt2.image = "";
   for (var j = 0; j < myHRTValString.length; j++) {
     let hrtLetter = myHRTValString.slice(j,j+1) + "-small";
     drawDigit(hrtLetter, hrtArray[j]);
